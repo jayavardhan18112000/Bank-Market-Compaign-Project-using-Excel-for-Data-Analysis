@@ -29,7 +29,7 @@ link - https://github.com/jayavardhan18112000/Bank-Market-Compaign-Project-using
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone [https://github.com/jayavardhan18112000/Bank-Market-Compaign-Project-using-Excel-for-Data-Analysis]
+   git clone https://github.com/jayavardhan18112000/Bank-Market-Compaign-Project-using-Excel-for-Data-Analysis
 Navigate to the project directory:
 
 bash
